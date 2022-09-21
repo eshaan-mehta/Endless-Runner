@@ -1,4 +1,4 @@
-Survival Game things to add list
+Runner Game things to add list
 
 - Title screen
 - Shop
