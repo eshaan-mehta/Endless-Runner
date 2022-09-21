@@ -7,7 +7,7 @@ Runner Game things to add list
 - Sounds
 
 
-- Cannot shoot while crouching
+
 - Different Guns with different properties:
 	- pistol:
 		- single pellet
@@ -19,7 +19,7 @@ Runner Game things to add list
 		- small decrease to movement speed
 	- sniper:
 		- piercing bullets
-		- big decrease to movement speed
+		- larger decrease to movement speed
 		- small mag
 		- really slow firerate
 
