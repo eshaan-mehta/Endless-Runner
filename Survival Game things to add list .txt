@@ -1,0 +1,34 @@
+Survival Game things to add list
+
+- Title screen
+- Shop
+- Inventory
+- Save progress to a file
+- Sounds
+
+
+- Cannot shoot while crouching
+- Different Guns with different properties:
+	- pistol:
+		- single pellet
+		- doesn't hinder movement speed
+	- shotgun:
+		- pellet spread
+		- slow pellet range and velocity
+		- slow firerate
+		- small decrease to movement speed
+	- sniper:
+		- piercing bullets
+		- big decrease to movement speed
+		- small mag
+		- really slow firerate
+
+- Money to collect
+- Uses of Money:
+	- buy new guns, therefore need shop screen for that	 
+
+
+
+- very unimportant things:
+	- gun upgrade
+	- cosmetics
